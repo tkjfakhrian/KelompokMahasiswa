@@ -1,0 +1,10 @@
+numpy
+streamlit
+pandas
+streamlit_option_menu
+python-math
+matplotlib
+scipy
+scikit-learn
+openpyxl
+xlsxwriter
