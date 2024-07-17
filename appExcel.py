@@ -21,7 +21,7 @@ class MainClass() :
 
     # Fungsi judul halaman
     def judul_halaman(self):
-        nama_app = "Prototype Aplikasi Penentuan Kelulusan Mahasiswa"
+        nama_app = "Prototype Aplikasi Prediksi Kelulusan Mahasiswa"
         st.title(nama_app)
 
     # Fungsi menu sidebar
